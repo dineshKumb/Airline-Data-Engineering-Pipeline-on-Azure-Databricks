@@ -68,7 +68,6 @@ The pipeline demonstrates scalable ingestion, transformation, Delta Lake optimiz
 - Airports dataset
 - Passenger dataset
 
-*(Add file names if you want.)*
 
 ---
 
@@ -96,16 +95,6 @@ The pipeline demonstrates scalable ingestion, transformation, Delta Lake optimiz
 
 ---
 
-## 📊 Sample Outputs
-- Flight route performance  
-- Delay patterns  
-- Passenger booking statistics  
-- Airport-level traffic analysis  
-
-*(Add screenshots when you upload the notebook.)*
-
----
-
 ## 📈 Future Enhancements
 - Add Airflow orchestration  
 - Add unit tests with pytest  
@@ -114,5 +103,3 @@ The pipeline demonstrates scalable ingestion, transformation, Delta Lake optimiz
 
 ---
 
-## 📬 Contact
-For any questions or discussion, feel free to reach out via LinkedIn or email.
